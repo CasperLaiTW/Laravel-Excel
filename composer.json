@@ -9,12 +9,6 @@
             "email": "patrick@maatwebsite.nl"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:CasperLaiTW/PHPExcel.git"
-        }
-    ],
     "require": {
         "php": ">=5.3.0",
         "casperlai/phpexcel": "dev-develop"
@@ -37,6 +31,10 @@
         {
             "type": "vcs",
             "url": "git://github.com/orchestral/phpseclib.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:CasperLaiTW/PHPExcel.git"
         }
     ]
 }
